@@ -7,5 +7,3 @@ I am a Cybersecurity practitioners
   <img src="https://github-readme-stats.vercel.app/api?username=liangzai-ff&show_icons=true&theme=bear" width="400">
 
 </p>
-
-<img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
