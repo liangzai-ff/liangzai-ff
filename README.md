@@ -8,3 +8,4 @@ I am a Cybersecurity practitioners
 
 </p>
 
+<img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
